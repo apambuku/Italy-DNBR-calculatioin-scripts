@@ -1,0 +1,164 @@
+[
+  {
+    "path": "perimeters/perimeters.CPG",
+    "bytes": 5,
+    "sha256": "3ad3031f5503a4404af825262ee8232cc04d4ea6683d42c5dd0a2f2a27ac9824"
+  },
+  {
+    "path": "perimeters/perimeters.dbf",
+    "bytes": 14782282,
+    "sha256": "c05172c556686c4cb34f7cd12700d6e85480f6f9331809a05690c2d16c0d2295"
+  },
+  {
+    "path": "perimeters/perimeters.prj",
+    "bytes": 400,
+    "sha256": "10a2674d7bc43a70df19daf98d0b1deb3f5222f03659e1b4d82b395c20177cb9"
+  },
+  {
+    "path": "perimeters/perimeters.shp",
+    "bytes": 143769780,
+    "sha256": "4e9ec825ce7301b83ee3fb01a7e6bff5febdcbc5f17330cb50d46f981974cd9a"
+  },
+  {
+    "path": "perimeters/perimeters.shp.xml",
+    "bytes": 2004,
+    "sha256": "e9f53702a4ba804f5b7412aeebf3c8016e33c6e4c1542da99ed671df268f1aaf"
+  },
+  {
+    "path": "perimeters/perimeters.shx",
+    "bytes": 267044,
+    "sha256": "daec88a03633cd2f93b9ae31827558912502688aabfd09df6c20f3157a0422b1"
+  },
+  {
+    "path": "dem.tif",
+    "bytes": 1453361832,
+    "sha256": "172488cde308624088e65df2cf8459e8da22bd7c353295ef34540b9516085daf",
+    "raster": {
+      "crs": "EPSG:32632",
+      "shape": [
+        43424,
+        34142
+      ],
+      "bands": 1,
+      "dtype": [
+        "float32"
+      ],
+      "transform": [
+        30.0,
+        0.0,
+        295885.18351624795,
+        0.0,
+        -30.0,
+        5230900.536622806
+      ],
+      "nodata": -3.4028230607370965e+38,
+      "resolution": [
+        30.0,
+        30.0
+      ],
+      "tags": {
+        "DataType": "Generic",
+        "AREA_OR_POINT": "Area"
+      }
+    }
+  },
+  {
+    "path": "clc/CLC_italy_2006.tif",
+    "bytes": 7993253,
+    "sha256": "5e097245b8e140fe81ea897cad89f880522c9e881874f6a2dc568878e0124dde",
+    "raster": {
+      "crs": "EPSG:32632",
+      "shape": [
+        12214,
+        9771
+      ],
+      "bands": 1,
+      "dtype": [
+        "int8"
+      ],
+      "transform": [
+        99.99999999999999,
+        0.0,
+        344401.61458181834,
+        0.0,
+        -100.0,
+        5146020.6379407
+      ],
+      "nodata": -128.0,
+      "resolution": [
+        99.99999999999999,
+        100.0
+      ],
+      "tags": {
+        "DataType": "Generic",
+        "AREA_OR_POINT": "Area"
+      }
+    }
+  },
+  {
+    "path": "clc/CLC_italy_2012.tif",
+    "bytes": 7998501,
+    "sha256": "50afa5a20f4e3b3b1bb92f94c496961c48bb7d9af2a34785103bc8b583536cf0",
+    "raster": {
+      "crs": "EPSG:32632",
+      "shape": [
+        12214,
+        9771
+      ],
+      "bands": 1,
+      "dtype": [
+        "int8"
+      ],
+      "transform": [
+        99.99999999999999,
+        0.0,
+        344401.61458181834,
+        0.0,
+        -100.0,
+        5146020.6379407
+      ],
+      "nodata": -128.0,
+      "resolution": [
+        99.99999999999999,
+        100.0
+      ],
+      "tags": {
+        "DataType": "Thematic",
+        "AREA_OR_POINT": "Area"
+      }
+    }
+  },
+  {
+    "path": "clc/CLC_italy_2018.tif",
+    "bytes": 8010975,
+    "sha256": "737c930fb476d5e6a4975ee062d568d892392097a9aead235ad33dbc783ba5d6",
+    "raster": {
+      "crs": "EPSG:32632",
+      "shape": [
+        12214,
+        9771
+      ],
+      "bands": 1,
+      "dtype": [
+        "int8"
+      ],
+      "transform": [
+        99.99999999999999,
+        0.0,
+        344401.61458181834,
+        0.0,
+        -100.0,
+        5146020.6379407
+      ],
+      "nodata": -128.0,
+      "resolution": [
+        99.99999999999999,
+        100.0
+      ],
+      "tags": {
+        "DataType": "Thematic",
+        "AREA_OR_POINT": "Area"
+      }
+    }
+  }
+]
